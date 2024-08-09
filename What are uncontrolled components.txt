@@ -1,0 +1,2 @@
+Uncontrolled components store their form data in the DOM rather than in the component's state. They are managed using refs, and their values are accessed directly from the DOM.
+

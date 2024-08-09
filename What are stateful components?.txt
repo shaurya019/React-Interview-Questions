@@ -1,0 +1,1 @@
+Stateful components, or class components, manage their own state using this.state and this.setState.

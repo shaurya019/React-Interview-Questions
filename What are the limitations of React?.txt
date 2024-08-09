@@ -1,0 +1,4 @@
+Steeper learning curve for beginners
+Requires build tools and setup
+Boilerplate code for certain features
+Performance issues with large apps if not optimized

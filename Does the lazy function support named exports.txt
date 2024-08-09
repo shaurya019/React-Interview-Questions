@@ -1,0 +1,1 @@
+No, the React.lazy function only supports default exports. To use named exports with lazy loading, you need to use dynamic import() and re-export the named export.

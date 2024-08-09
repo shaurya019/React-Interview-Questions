@@ -1,0 +1,1 @@
+Stateless components, also known as functional components, do not manage their own state and rely on props to render output.

@@ -1,0 +1,1 @@
+Portals provide a way to render children into a DOM node outside of their parent component's hierarchy

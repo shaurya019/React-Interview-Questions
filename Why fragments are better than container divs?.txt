@@ -1,0 +1,1 @@
+Fragments avoid unnecessary wrapper elements, reducing the number of nodes in the DOM and preventing potential styling issues or layout problems caused by extra divs.

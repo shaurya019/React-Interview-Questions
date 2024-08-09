@@ -1,0 +1,2 @@
+Reconciliation is the process by which React updates the DOM to reflect changes in the component state or props. It involves comparing the virtual DOM with the previous version and applying minimal updates to the real DOM.
+

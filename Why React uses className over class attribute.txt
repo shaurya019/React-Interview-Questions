@@ -1,0 +1,1 @@
+React uses className because class is a reserved keyword in JavaScript. className is used to avoid conflicts and ensure proper behavior in the virtual DOM.

@@ -1,0 +1,1 @@
+Controlled components are React components whose form data is handled by the component's state. The input values are controlled through React state and updated via event handlers.

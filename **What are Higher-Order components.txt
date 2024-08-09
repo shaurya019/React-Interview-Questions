@@ -1,0 +1,1 @@
+Higher-Order Components (HOCs) are functions that take a component and return a new component with additional props or behavior. They are used for code reuse and cross-cutting concerns.

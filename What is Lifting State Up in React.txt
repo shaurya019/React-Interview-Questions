@@ -1,0 +1,1 @@
+Lifting state up involves moving state from child components to their closest common ancestor to manage shared state in a single place, allowing multiple components to access and modify it.

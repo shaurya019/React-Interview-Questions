@@ -1,0 +1,2 @@
+The react-dom package provides methods for rendering React components into the DOM, including ReactDOM.render, ReactDOM.createRoot, and ReactDOM.hydrate.
+

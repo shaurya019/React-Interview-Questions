@@ -1,0 +1,1 @@
+Fragments are a way to group multiple elements without adding extra nodes to the DOM. They are represented by <React.Fragment>
