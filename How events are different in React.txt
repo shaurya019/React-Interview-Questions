@@ -1,0 +1,1 @@
+React events are synthetic and normalized across browsers. They use camelCase syntax (e.g., onClick) and are handled using functions passed as props

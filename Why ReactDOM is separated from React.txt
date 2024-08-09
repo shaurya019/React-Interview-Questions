@@ -1,0 +1,1 @@
+Separating ReactDOM from React allows the core React library to be used in different environments, such as native apps with React Native or server-side rendering, while ReactDOM is specific to web applications.

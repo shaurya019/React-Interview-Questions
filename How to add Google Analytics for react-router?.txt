@@ -1,0 +1,1 @@
+Use the react-ga library or similar to integrate Google Analytics with react-router. Track page views on route changes using the useEffect 

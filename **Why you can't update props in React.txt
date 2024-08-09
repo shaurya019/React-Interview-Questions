@@ -1,0 +1,1 @@
+Props are immutable and managed by the parent component. Updating props from the child component violates the unidirectional data flow principle in React. Instead, use state or callbacks to handle updates.

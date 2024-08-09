@@ -1,0 +1,1 @@
+Spreading props on DOM elements can unintentionally pass through non-standard attributes or cause conflicts with existing attributes.

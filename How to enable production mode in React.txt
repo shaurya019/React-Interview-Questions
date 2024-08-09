@@ -1,0 +1,1 @@
+Production mode is enabled by setting the NODE_ENV environment variable to "production". This optimizes React's performance by disabling development warnings and enabling production optimizations.

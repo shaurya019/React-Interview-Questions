@@ -1,0 +1,1 @@
+ReactDOMServer is a package that allows you to render React components to static HTML on the server side. It is used for server-side rendering (SSR) to generate HTML for initial page loads.

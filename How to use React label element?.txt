@@ -1,0 +1,1 @@
+Use the <label> element to create labels for form elements. Example: <label htmlFor="username">Username:</label><input id="username" type="text" />.

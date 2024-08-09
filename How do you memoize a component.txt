@@ -1,0 +1,1 @@
+Use React.memo to memoize a functional component, which prevents re-rendering if the props have not changed

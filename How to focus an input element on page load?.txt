@@ -1,0 +1,1 @@
+Use a ref to access the input element and call focus in a useEffect hook or componentDidMount lifecycle method. Example:

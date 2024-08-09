@@ -1,0 +1,1 @@
+Mixins were a way to share code between components in older versions of React. They are now considered outdated and were replaced by higher-order components and hooks for code reuse.

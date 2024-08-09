@@ -1,0 +1,1 @@
+Access the React version via React.version. Example: console.log(React.version);.

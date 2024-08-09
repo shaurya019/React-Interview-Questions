@@ -1,0 +1,1 @@
+dangerouslySetInnerHTML is used to insert raw HTML into a component. It is named "dangerously" because it can expose your application to XSS attacks if the HTML is not sanitized

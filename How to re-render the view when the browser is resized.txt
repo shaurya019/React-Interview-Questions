@@ -1,0 +1,1 @@
+Use the window resize event to handle browser resizing. Add an event listener in useEffect or component lifecycle methods to update the component state.

@@ -1,0 +1,2 @@
+Using indexes as keys can negatively impact performance and lead to issues with component state and reordering. It is generally better to use stable and unique identifiers as keys.
+

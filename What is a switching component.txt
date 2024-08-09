@@ -1,0 +1,1 @@
+ switching component typically refers to a component that conditionally renders different components or elements based on some condition or state.

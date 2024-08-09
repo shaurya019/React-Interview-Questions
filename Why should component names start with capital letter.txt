@@ -1,0 +1,1 @@
+Component names should start with a capital letter because React treats components starting with lowercase letters as DOM elements. Capitalized names distinguish components from native HTML elements.

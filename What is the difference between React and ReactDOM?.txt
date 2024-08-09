@@ -1,0 +1,1 @@
+React is the core library for building components and managing the virtual DOM, while ReactDOM provides methods for rendering React components to the DOM and managing the DOM interactions.

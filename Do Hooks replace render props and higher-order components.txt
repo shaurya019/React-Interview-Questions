@@ -1,0 +1,1 @@
+Hooks provide an alternative to render props and higher-order components for handling state and side effects.
