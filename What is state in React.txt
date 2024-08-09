@@ -1,0 +1,1 @@
+State is an object that holds data that affects how the component renders and behaves. It is managed within the component and can be updated using the setState method in class components or useState hook in function components.

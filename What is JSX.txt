@@ -1,0 +1,1 @@
+JSX (JavaScript XML) is a syntax extension for JavaScript that looks similar to HTML.

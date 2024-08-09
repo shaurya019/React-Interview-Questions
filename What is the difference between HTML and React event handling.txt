@@ -1,0 +1,1 @@
+In React, event handling is done using camelCase syntax (e.g., onClick), and event handlers are functions passed as props. In HTML, event handlers use lowercase syntax (e.g., onclick) and are usually defined directly in the HTML.

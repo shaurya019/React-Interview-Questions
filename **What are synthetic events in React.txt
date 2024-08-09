@@ -1,0 +1,1 @@
+Synthetic events are React's cross-browser wrapper around the native browser events. They normalize events so that they have consistent properties across different browsers.

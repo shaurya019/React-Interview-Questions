@@ -1,0 +1,4 @@
+Function Components: Functions that return React elements. Example: function MyComponent() { return <div>Hello</div>; }
+
+
+Class Components: ES6 classes that extend React.Component and have a render method that returns React elements. Example: class MyComponent extends React.Component { render() { return <div>Hello</div>; } }

@@ -1,0 +1,1 @@
+Use Class Components when you need to use lifecycle methods or manage state before React Hooks were introduced. However, Function Components with Hooks now cover most use cases, including state and side effects.

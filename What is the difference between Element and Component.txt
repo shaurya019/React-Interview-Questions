@@ -1,0 +1,3 @@
+Element: A React element is a plain JavaScript object that describes a DOM node and its properties. It is immutable.
+
+Component: A React component is a JavaScript function or class that returns a React element and manages its own state and lifecycle.

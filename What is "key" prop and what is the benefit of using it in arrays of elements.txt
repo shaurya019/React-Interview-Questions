@@ -1,0 +1,1 @@
+The key prop is a unique identifier used by React to keep track of elements in a list. It helps React efficiently update and re-render components by identifying which items have changed, been added, or removed.

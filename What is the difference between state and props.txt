@@ -1,0 +1,2 @@
+State: Managed within the component, mutable, and can change over time.
+Props: Passed from parent components, not capable of change within the receiving component.

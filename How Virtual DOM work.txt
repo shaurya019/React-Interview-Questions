@@ -1,0 +1,1 @@
+React creates a virtual DOM tree to represent the UI. When a component’s state changes, React updates the virtual DOM, compares it with the previous version using a diffing algorithm, and applies the minimum necessary changes to the real DOM.

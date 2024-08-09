@@ -1,0 +1,1 @@
+The main goal of React Fiber is to enhance the rendering performance of React applications by enabling incremental rendering, allowing the framework to break rendering work into units and prioritize updates based on their importance.

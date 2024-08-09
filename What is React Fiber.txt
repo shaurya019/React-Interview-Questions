@@ -1,0 +1,1 @@
+React Fiber is a complete rewrite of the React core algorithm, designed to improve performance and enable incremental rendering. It allows React to prioritize updates and handle complex rendering scenarios more efficiently.

@@ -1,0 +1,2 @@
+Shadow DOM: A web standard that allows encapsulation of DOM and CSS styles, creating a separate, isolated DOM tree within a component.
+Virtual DOM: A React-specific concept that improves performance by minimizing direct manipulations of the real DOM through efficient diffing and patching algorithms.
