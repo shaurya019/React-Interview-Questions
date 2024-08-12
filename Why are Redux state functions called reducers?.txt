@@ -1,0 +1,1 @@
+Reducers are pure functions that compute the new state based on the current state and an action. They reduce the action into a new state.

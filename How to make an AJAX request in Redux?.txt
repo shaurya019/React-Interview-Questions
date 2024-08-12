@@ -1,0 +1,1 @@
+Use middleware like Redux Thunk or Redux Saga to handle asynchronous actions and perform AJAX requests.

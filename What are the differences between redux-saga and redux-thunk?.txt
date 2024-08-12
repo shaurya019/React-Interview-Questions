@@ -1,0 +1,2 @@
+- Redux-saga: Uses generator functions and provides more powerful control flow and error handling.
+- Redux-thunk: Simpler and uses functions for asynchronous actions but can become less manageable for complex scenarios.

@@ -1,0 +1,2 @@
+- React Context: Provides a way to pass data through the component tree without props drilling. Best for small or medium state management.
+- React Redux: Provides a more robust state management solution with a single store, middleware support, and advanced features.

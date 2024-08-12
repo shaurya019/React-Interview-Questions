@@ -1,0 +1,1 @@
+Import the store directly if necessary, or use Redux middleware or custom hooks to access the store outside of React components.

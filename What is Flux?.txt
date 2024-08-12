@@ -1,0 +1,1 @@
+Flux is an application architecture for building user interfaces.

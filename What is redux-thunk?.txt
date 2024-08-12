@@ -1,0 +1,1 @@
+Redux Thunk is a middleware for Redux that allows action creators to return functions instead of plain objects, enabling handling of asynchronous logic.

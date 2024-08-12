@@ -1,0 +1,1 @@
+No, reducers should be pure functions and only compute the new state based on the action. Actions should be dispatched from components or middleware.

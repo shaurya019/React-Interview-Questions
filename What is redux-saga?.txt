@@ -1,0 +1,1 @@
+Redux-saga is a middleware library for managing side effects in Redux applications. It uses sagas (generator functions) to handle asynchronous actions.

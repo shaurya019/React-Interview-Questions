@@ -1,0 +1,1 @@
+Redux is a state management library based on the Flux architecture. It uses a single store to manage the state of an application and relies on actions and reducers to handle state changes.

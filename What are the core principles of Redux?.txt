@@ -1,0 +1,3 @@
+- Single source of truth: The state is stored in a single store.
+- State is read-only: The state can only be modified by dispatching actions.
+- Changes are made with pure functions: Reducers specify how the state changes in response to actions.
